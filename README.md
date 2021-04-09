@@ -4,4 +4,4 @@
 
 My first ever project is an EDA on a dataset found on Kaggle.com, data representing the Intakes from an Animal Shelter in Austin Texas USA. Can be found [here](https://github.com/kl4udiu/Data-Science/blob/main/Austin%20Dogs.ipynb)
 
-in this small project I just wanted to practice a bit of data cleanup and visualisation on a dataset found on Kaggle.com . It is a small dataset based on a Survey on Food Preference and can be found [here](https://github.com/kl4udiu/Data-Science/blob/main/Food%20Preference%20Survey.ipynb)
+In this small project I just wanted to practice a bit of data cleanup and visualisation on a dataset found on Kaggle.com . It is a small dataset based on a Survey on Food Preference and can be found [here](https://github.com/kl4udiu/Data-Science/blob/main/Food%20Preference%20Survey.ipynb)
