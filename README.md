@@ -1,4 +1,9 @@
 # Data-Science
+__ PLEASE READ ! If you get a "Sorry, something went wrong. Reload?" when viewing the Notebooks, please do the following:
+1. Open "https://nbviewer.jupyter.org/"
+2. Paste the link to your notebook, (e.g. "https://github.com/kl4udiu/Data-Science/blob/main/Austin%20Dogs.ipynb") there and then you get "https://nbviewer.jupyter.org/github/kl4udiu/Data-Science/blob/main/Austin%20Dogs.ipynb"
+
+More details on this workaround [here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11) __
 
 ## You can find here my personal projects where I will be practicing Exploratory Data Analysis(EDA), Machine Learning and Deep Learning with Python.
 
