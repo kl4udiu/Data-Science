@@ -1,5 +1,5 @@
 # Data-Science
-__PLEASE READ ! If you get a "Sorry, something went wrong. Reload?" when viewing the Notebooks, please do the following:
+__PLEASE READ ! If you get a "Sorry, something went wrong. Reload?" when viewing the Notebooks, please do the following:__
 1. Open "https://nbviewer.jupyter.org/"
 2. Paste the link to your notebook, (e.g. "https://github.com/kl4udiu/Data-Science/blob/main/Austin%20Dogs.ipynb") there and then you get "https://nbviewer.jupyter.org/github/kl4udiu/Data-Science/blob/main/Austin%20Dogs.ipynb"__
 
