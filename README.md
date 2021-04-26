@@ -12,3 +12,5 @@ ___
 In this small project I just wanted to practice a bit of data cleanup and visualisation on a dataset found on Kaggle.com . It is a small dataset based on a Survey on Food Preference and can be found [here](https://github.com/kl4udiu/Data-Science/blob/main/Food%20Preference%20Survey.ipynb)
 ___
 My first attempt at training a model to predict a price. The dataset was one on Avocado prices. The Notebook can be found [here](https://github.com/kl4udiu/Data-Science/blob/main/Avocado%20Price%20Prediction.ipynb) and there you can find a bit of Exploratory Data Analysis(EDA), data preparation and training a simple Linear Regression model. 
+___
+For this project I had to deal with data preparation, as the dataset had missing values and also needed some corrections to be good for the models. The dataset was regarding Loan Eligibility and I used a LogisticRegression model and a DecisionTreeClassifier . The Notebook can be found [here](https://github.com/kl4udiu/Data-Science/blob/main/Loan%20Eligibility%20Prediction.ipynb). 
